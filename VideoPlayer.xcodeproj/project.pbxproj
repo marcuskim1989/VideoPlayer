@@ -16,6 +16,7 @@
 		2C60EA472A6A36AE00A882B4 /* VideoPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C60EA462A6A36AE00A882B4 /* VideoPlayerTests.swift */; };
 		2C60EA512A6A36AE00A882B4 /* VideoPlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C60EA502A6A36AE00A882B4 /* VideoPlayerUITests.swift */; };
 		2C60EA532A6A36AE00A882B4 /* VideoPlayerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C60EA522A6A36AE00A882B4 /* VideoPlayerUITestsLaunchTests.swift */; };
+		2C60EA602A6A372700A882B4 /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C60EA5F2A6A372700A882B4 /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2C60EA4C2A6A36AE00A882B4 /* VideoPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VideoPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C60EA502A6A36AE00A882B4 /* VideoPlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerUITests.swift; sourceTree = "<group>"; };
 		2C60EA522A6A36AE00A882B4 /* VideoPlayerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2C60EA5F2A6A372700A882B4 /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		2C60EA2E2A6A36AB00A882B4 /* VideoPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				2C60EA5F2A6A372700A882B4 /* test.mp4 */,
 				2C60EA2F2A6A36AB00A882B4 /* AppDelegate.swift */,
 				2C60EA312A6A36AB00A882B4 /* SceneDelegate.swift */,
 				2C60EA332A6A36AB00A882B4 /* ViewController.swift */,
@@ -234,6 +237,7 @@
 				2C60EA3C2A6A36AE00A882B4 /* LaunchScreen.storyboard in Resources */,
 				2C60EA392A6A36AE00A882B4 /* Assets.xcassets in Resources */,
 				2C60EA372A6A36AB00A882B4 /* Main.storyboard in Resources */,
+				2C60EA602A6A372700A882B4 /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
